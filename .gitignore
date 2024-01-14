@@ -2,7 +2,6 @@
 /config.cfg
 /data
 /main.py
-/output
 /temp.csv
 /text_chunks_preprocessed.csv
 /train.spacy
