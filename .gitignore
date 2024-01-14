@@ -1,0 +1,13 @@
+/base_config.cfg
+/config.cfg
+/data
+/main.py
+/output
+/temp.csv
+/text_chunks_preprocessed.csv
+/train.spacy
+/train_pdf_pages.csv
+/train_text_chunks_preprocessed.csv
+/val.spacy
+/val_pdf_pages.csv
+/val_text_chunks_preprocessed.csv
